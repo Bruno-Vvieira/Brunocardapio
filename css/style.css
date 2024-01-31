@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(../images/plano.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.org1 {
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(237, 255, 228, 0.448);
+
+}
+
+
+section {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.596);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pratos{
+    margin-top: 10%;
+    margin-left: -55%;
+
+}
+.pratos1{
+    margin-top: 20%;
+    margin-left: -30%;
+}
+.pratos2{
+    margin-top: 20%;
+    margin-left: -50%;
+}
+.pratos3{
+    margin-top: 20%;
+    margin-left: -50%;
+}
+.pratos4{
+    margin-top: 20%;
+    margin-left: -45%;
+}
+.cmd{
+font-size: 15px;
+}
+
+.cx {
+    background-color: #ffd900c5;
+    margin-bottom: 100px;
+    margin-top: 5%;
+    height: 400px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    border-radius: 3%;
+    border: solid 0.5px #000 ;
+
+}
+.pratos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+p {
+    font-size: 18px;
+    margin-top: 2%;
+}
+
+
+footer {
+    height: 50px;
+    width: 100%;
+    
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+}
